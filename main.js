@@ -1,4 +1,4 @@
-const api = "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";
+const api = "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";
 const inp = document.getElementById ('inp');
 const images = document.querySelector ('.images');
 
